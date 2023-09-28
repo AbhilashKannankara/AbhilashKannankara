@@ -1,5 +1,5 @@
 ### Hi there, I'm Abhilash K 👋
-I'm Abhilash,from Palakkad,Completed BTech in Electronics And Communication Engineering from College Of Engineering,Aranmula. After my graduation I completed an internship program in python full stack development.
+Completed BTech in Electronics And Communication Engineering from College Of Engineering,Aranmula. After my graduation I completed an internship program in python full stack development.
 
 
 #### Languages:
